@@ -1,1 +1,80 @@
-<mxfile host="app.diagrams.net" modified="2022-12-09T20:27:01.763Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.2" etag="jz4QqE8aQ2OFWIlayqJI" type="github"><diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">7VpNc5swEP01PnYGEHbcY+PmY6ZOJjM+9KwgBdQK5BHCmPz6SkYyn8EkxglOmkvQYxHSe6vdlfAELMLtDYfr4I4hTCeOhbYT8HPiOLbjAPlPIVmOzNxpDvicIG1UACvyjDVoaTQhCMcVQ8EYFWRdBT0WRdgTFQxyztKq2ROj1beuoY8bwMqDtIn+JkgEOTp3Lgr8FhM/MG+2Z9/zOyE0xnomcQARS0sQuJqABWdM5FfhdoGpIs/wkj93/cLd/cA4jkSfB9D9Nrv/deFdzB+X6SZG+O52+s3Wo91AmugZP0h69YhFZmiIUxJSGMnWZSBCKkFbXnoBoWgJM5aoEcQCen9N65LjWIr5YIZn16A7qFzEUv0xTp5ZJCDVgOyHC+0JTtVipV6hzZrz15RsMBd4W4I0HzeYhVjwTJrs3VNrk9XaaSG1O9VYUJIZzDQItXv5+74LBeSFFuEVghjHKgnSEAMj6aK6ybgImM8iSK8K9JKzJEIYaaYKmyVjay3GHyxEplmGiWBVZRGMg93zqoEj9EMtJdmM2M4HJHJNKH1RiU5fi1nCPdzFgasXOuQ+7urRmeWGipBOvTmmUJBNdU0Prh2wP0KqkjoehXFMvIpA9ikEmvcUCFjjEmj6X6AaI+64BJp/FYFmfQUaPMTtHpXzhVnJYM1IJOJSzw8KKGXKeTVTArdWbNTsXavTXl7kIyhcZT+VI3Kn1cidS1WzOFYzMLcXNB2lx9tyXf9apK30AC2lx75GGb70mI6i9OjJ8L6sPrjUQN9qYlyx0Iy7Uw5K5UZI0Z4GRODVGu6oSOVe7ChS+7utW13nbosXtzixezIfdg+TVvXQA8Q9ycV/DUNC1QRvMd1gQTyob2gfth3dXjDK+O4lwNr9SRxS4kcqs0jmMT+lFPXdDGhqMW/R4mRbGdDHgc8pu/cOOYb5w9ndGVXIAc0E+mVWTz2Sffjqcc4h/O8PQsYS/+0Ga7oEbLI32hKw6zTqnUvC5vHgmYdwsxMYbINmttojCeFm3J8ghB99nPvRIdy4RqcWAQsfk/hT6eCMLSk0U6lOCuDskkIrme+bFMA4PlEMmBTM+A/W9X0/TAx/anecYp9nV2yW8pvr+pai6n3r+j4JevxJ4dU61HcKLcl5oKQgm8VX9fxsufhtArj6Bw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-09T21:17:39.787Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="ioxMsNVwU5cGVO5bry8B" version="20.6.2" type="github">
+  <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
+    <mxGraphModel dx="652" dy="355" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kfuMkHNKd0KxU2UGfjOB-3" value="Diagrama de Atividade para Agendamento de Sala" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="550" y="105" width="430" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="kfuMkHNKd0KxU2UGfjOB-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="kfuMkHNKd0KxU2UGfjOB-3" source="kfuMkHNKd0KxU2UGfjOB-9" target="kfuMkHNKd0KxU2UGfjOB-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kfuMkHNKd0KxU2UGfjOB-4" value="Funcionário" style="swimlane;startSize=20;html=1;fillColor=none;" vertex="1" parent="kfuMkHNKd0KxU2UGfjOB-3">
+          <mxGeometry y="20" width="230" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="kfuMkHNKd0KxU2UGfjOB-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="kfuMkHNKd0KxU2UGfjOB-4" source="kfuMkHNKd0KxU2UGfjOB-8" target="kfuMkHNKd0KxU2UGfjOB-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kfuMkHNKd0KxU2UGfjOB-8" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="kfuMkHNKd0KxU2UGfjOB-4">
+          <mxGeometry x="50" y="25" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kfuMkHNKd0KxU2UGfjOB-9" value="Reservar sala em determinado Horário" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};treeFolding=1;treeMoving=1;fillColor=none;fontSize=9;" vertex="1" parent="kfuMkHNKd0KxU2UGfjOB-4">
+          <mxGeometry x="10" y="65" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kfuMkHNKd0KxU2UGfjOB-31" value="Alterar o Horário da Pesquisa" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};treeFolding=1;treeMoving=1;fontSize=9;fillColor=none;" vertex="1" parent="kfuMkHNKd0KxU2UGfjOB-4">
+          <mxGeometry x="90" y="195" width="100" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="kfuMkHNKd0KxU2UGfjOB-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;shadow=1;sketch=0;" edge="1" parent="kfuMkHNKd0KxU2UGfjOB-3" source="kfuMkHNKd0KxU2UGfjOB-15" target="kfuMkHNKd0KxU2UGfjOB-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="115.0344827586207" y="215" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="210" y="155" />
+              <mxPoint x="210" y="232" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kfuMkHNKd0KxU2UGfjOB-5" value="Agenda" style="swimlane;startSize=20;html=1;fillColor=none;" vertex="1" parent="kfuMkHNKd0KxU2UGfjOB-3">
+          <mxGeometry x="230" y="20" width="200" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="kfuMkHNKd0KxU2UGfjOB-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.513;entryY=0.08;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="kfuMkHNKd0KxU2UGfjOB-5" source="kfuMkHNKd0KxU2UGfjOB-11" target="kfuMkHNKd0KxU2UGfjOB-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="105" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kfuMkHNKd0KxU2UGfjOB-11" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Checar Salas Disponíveis no horário&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};treeFolding=1;treeMoving=1;fillColor=none;" vertex="1" parent="kfuMkHNKd0KxU2UGfjOB-5">
+          <mxGeometry x="45" y="65" width="135" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kfuMkHNKd0KxU2UGfjOB-15" value="" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fillColor=none;" vertex="1" parent="kfuMkHNKd0KxU2UGfjOB-5">
+          <mxGeometry x="100" y="125" width="25" height="15" as="geometry" />
+        </mxCell>
+        <UserObject label="Se Existe Sala Disponível" placeholders="1" name="Variable" id="kfuMkHNKd0KxU2UGfjOB-18">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=9;rotation=90;" vertex="1" parent="kfuMkHNKd0KxU2UGfjOB-5">
+            <mxGeometry x="66.5" y="185" width="108" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="kfuMkHNKd0KxU2UGfjOB-27" value="Realiza Agendamento de uma Sala Disponível&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};treeFolding=1;treeMoving=1;fontSize=9;fillColor=none;" vertex="1" parent="kfuMkHNKd0KxU2UGfjOB-5">
+          <mxGeometry x="41.25" y="265" width="142.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kfuMkHNKd0KxU2UGfjOB-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="kfuMkHNKd0KxU2UGfjOB-5" source="kfuMkHNKd0KxU2UGfjOB-15" target="kfuMkHNKd0KxU2UGfjOB-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="235" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Se Não Existe Sala Disponível" placeholders="1" name="Variable" id="kfuMkHNKd0KxU2UGfjOB-28">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=7;rotation=0;" vertex="1" parent="kfuMkHNKd0KxU2UGfjOB-5">
+            <mxGeometry x="-3" y="135" width="110" height="15" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="kfuMkHNKd0KxU2UGfjOB-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.407;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=9;shadow=1;" edge="1" parent="kfuMkHNKd0KxU2UGfjOB-3" source="kfuMkHNKd0KxU2UGfjOB-31" target="kfuMkHNKd0KxU2UGfjOB-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="130" y="65" />
+              <mxPoint x="330" y="65" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
