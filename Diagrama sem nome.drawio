@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-09T21:17:39.787Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="ioxMsNVwU5cGVO5bry8B" version="20.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-09T21:29:33.840Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="mvbEaLV_eBDDqiVY45vu" version="20.6.2" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="652" dy="355" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="652" dy="316" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -53,12 +53,9 @@
             <mxGeometry x="66.5" y="185" width="108" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="kfuMkHNKd0KxU2UGfjOB-27" value="Realiza Agendamento de uma Sala Disponível&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};treeFolding=1;treeMoving=1;fontSize=9;fillColor=none;" vertex="1" parent="kfuMkHNKd0KxU2UGfjOB-5">
-          <mxGeometry x="41.25" y="265" width="142.5" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="kfuMkHNKd0KxU2UGfjOB-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="kfuMkHNKd0KxU2UGfjOB-5" source="kfuMkHNKd0KxU2UGfjOB-15" target="kfuMkHNKd0KxU2UGfjOB-27">
+        <mxCell id="kfuMkHNKd0KxU2UGfjOB-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="kfuMkHNKd0KxU2UGfjOB-5" source="kfuMkHNKd0KxU2UGfjOB-15" target="kfuMkHNKd0KxU2UGfjOB-33">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="110" y="235" as="targetPoint" />
+            <mxPoint x="112.5" y="264.9999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <UserObject label="Se Não Existe Sala Disponível" placeholders="1" name="Variable" id="kfuMkHNKd0KxU2UGfjOB-28">
@@ -66,6 +63,9 @@
             <mxGeometry x="-3" y="135" width="110" height="15" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="kfuMkHNKd0KxU2UGfjOB-33" value="&lt;span style=&quot;font-size: 9px;&quot;&gt;Realiza Agendamento de uma Sala Disponível&amp;nbsp;&lt;/span&gt;" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;shadow=0;fillStyle=auto;fontSize=7;fillColor=#000000;fontColor=#FFFFFF;strokeColor=#CCCCCC;" vertex="1" parent="kfuMkHNKd0KxU2UGfjOB-5">
+          <mxGeometry x="49.5" y="259" width="125.5" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="kfuMkHNKd0KxU2UGfjOB-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.407;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=9;shadow=1;" edge="1" parent="kfuMkHNKd0KxU2UGfjOB-3" source="kfuMkHNKd0KxU2UGfjOB-31" target="kfuMkHNKd0KxU2UGfjOB-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
